@@ -1,0 +1,4 @@
+{
+  "ssm:account=589560249530:parameterName=/home/contact/alarmemail:region=ap-southeast-2": "AQICAHg0cMlXQCCvQQrDmS7cOglOg3uA5Xy2acUimGA5JRDRdQGeF4ygCrQ8Tg3TLdpn4pKbAAAAcjBwBgkqhkiG9w0BBwagYzBhAgEAMFwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMyvxDJQU8kO6lrjVXAgEQgC9t4DRCpxYs8AjLwlMDO8q+DIIvPDgNMD7YWJi31HW19YUomw5V27qVK68Mz7cUgQ==",
+  "ssm:account=589560249530:parameterName=/home/contact/mobile:region=ap-southeast-2": "AQICAHg0cMlXQCCvQQrDmS7cOglOg3uA5Xy2acUimGA5JRDRdQF/i+oup7PBvHerl9/LxVY0AAAAaDBmBgkqhkiG9w0BBwagWTBXAgEAMFIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmtplLX6sPS0d6VvyAgEQgCWr/mXaXfdrBv1s6VcKHrSbcK8mDdIMNqNSoZ36pNcEYvT7Yhvo"
+}
