@@ -9,9 +9,6 @@ export class BillingAlarmStack extends cdk.Stack {
     super(scope, id, props)
 
     const topicArn = Fn.importValue('AlertTopicArn')
-    // const topicName = Fn.importValue('AlertTopicName')
-
-    console.log(topicArn)
 
     const topic = sns.Topic.fromTopicArn(this, 'AlarmTopic', topicArn)
 
