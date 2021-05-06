@@ -23,7 +23,7 @@ export class BillingAlarmStack extends cdk.Stack {
     const alarm = new cloudwatch.Alarm(this, 'BillingAlarm', {
       evaluationPeriods: 1,
       actionsEnabled: true,
-      alarmName: 'HomeBillingAlart',
+      alarmName: 'HomeBillingAlarm',
       alarmDescription: 'You have exceeded expect costs',
       comparisonOperator: cloudwatch.ComparisonOperator.GREATER_THAN_OR_EQUAL_TO_THRESHOLD,
       period: Duration.hours(6),
